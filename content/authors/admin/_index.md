@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Susy Echeverria-L
+name: Susy Echeverría-L
 
 # Username (this should match the folder name)
 authors:
@@ -21,7 +21,7 @@ role: NSF postdoctoral fellow, Biodiversity Researcher
 bio: I am interested in understanding large-scale patterns of biological data using computational tools.
 
 interests:
--  Data Science
+- Data Science
 - Understanding large-scale patterns of biological data
 - Spatial analysis and visualisations
 
@@ -71,8 +71,6 @@ email: "susyelo@gmail.com"
 ---
 
 I am an early career researcher focusing on the study of large-scale patterns of biodiversity, and
-the ecological and evolutionary processes that shaped them. I am also interested in understanding
-how human pressures have affected and will affect biodiversity in tropical regions. Throughout my
-career, I have gained extensive experience in the field of data science including data processing and
+the ecological and evolutionary processes that shaped them. Throughout my career, I have gained extensive experience in the field of data science including data processing and
 visualisation, advanced statistical and spatial analysis. In my work, I particularly enjoy exploring and
 analysing biological data through visualisations tools.

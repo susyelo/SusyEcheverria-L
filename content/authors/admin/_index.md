@@ -22,8 +22,9 @@ bio: I am interested in understanding large-scale patterns of biological data us
 
 interests:
 - Data Science
-- Understanding large-scale patterns of biological data
+- Large-scale patterns of biological data
 - Spatial analysis and visualisations
+- R
 
 education:
   courses:

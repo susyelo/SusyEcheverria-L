@@ -17,28 +17,36 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+title = "Visitor Scholar"
+company = "University of Pittsburgh"
+ company_url = ""
+ location = "Pittsburgh, PA, USA"
+ date_start = "2018-07-01"
+ date_end = "2019-07-01"
+ description = """ Analysis of time-series spatial point patterns from ca. 300 plant species to predict extinction risks """
+
+
+[[experience]]
+title = "NSF Postdoctoral Associate"
+company = "Kenyon College"
+ company_url = ""
+ location = "Gambier, OH"
+ date_start = "2017-08-01"
+ date_end = "2019-08-01"
+ description = """ Responsibilities include:
+
+- Research the consequences of climatic stability, biome age and area effects on
+seed plant diversity
+- Carry out paleoclimate reconstructions using machine learning methods such as
+random forest to calibrate biogeographic biome inferences.
+- Co-teaching of the BSc course “Global Ecology and Biogeography” at Kenyon
+College.
+- Teach and organise lectures and assignments for the Ecoinformatics course
+including Introduction to data science R, data managing and processing, data visualization,
+spatial analysis and reproducibility https://globalecologybiogeography.github.io/Ecoinformatics/
+"""
 
 +++

@@ -26,7 +26,7 @@ company = "University of Pittsburgh"
  location = "Pittsburgh, PA, USA"
  date_start = "2018-07-01"
  date_end = "2019-07-01"
- description = """ Analysis of time-series spatial point patterns from ca. 300 plant species to predict extinction risks """
+ description = """ Explore and analyse time-series spatial point patterns from ca. 300 plant species to predict extinction risks """
 
 
 [[experience]]
@@ -38,15 +38,16 @@ company = "Kenyon College"
  date_end = "2019-08-01"
  description = """ Responsibilities include:
 
-- Research the consequences of climatic stability, biome age and area effects on
-seed plant diversity
-- Carry out paleoclimate reconstructions using machine learning methods such as
-random forest to calibrate biogeographic biome inferences.
-- Co-teaching of the BSc course “Global Ecology and Biogeography” at Kenyon
-College.
-- Teach and organise lectures and assignments for the Ecoinformatics course
-including Introduction to data science R, data managing and processing, data visualization,
-spatial analysis and reproducibility https://globalecologybiogeography.github.io/Ecoinformatics/
+-  Research the consequences of habitat stability on current patters of plant diversity using the geographic distribution and phylogenetic relationships of ca. 24000 species.
+- Carry out paleohabitat reconstructions using machine learning methods.
+- Co-teaching of the BSc course “Global Ecology and Biogeography”
+- Teach and organise lectures and assignments for the Ecoinformatics course including:
+
+  - Introduction to data science R
+  - Data managing and processing
+  - Data visualization
+  - Spatial analysis and reproducibility
+  - See course https://globalecologybiogeography.github.io/Ecoinformatics/
 """
 
 +++

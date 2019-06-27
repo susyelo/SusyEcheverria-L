@@ -26,12 +26,20 @@ subtitle = ""
     tag = "*"
 
   [[content.filter_button]]
-   name = "BIEN"
-   tag = "Deep Learning"
+   name = "Functional diversity"
+   tag = "Functional diversity"
 
-  # [[content.filter_button]]
-  #   name = "Other"
-  #   tag = "Demo"
+   [[content.filter_button]]
+    name = "Diversification"
+    tag = "Diversification"
+
+    [[content.filter_button]]
+     name = "PREDICTS"
+     tag = "PREDICTS"
+
+  [[content.filter_button]]
+   name = "Other"
+   tag = "Demo"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

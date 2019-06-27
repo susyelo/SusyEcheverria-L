@@ -10,7 +10,7 @@ subtitle = "Plant Functional Diversity and the Biogeography of Biomes in North a
 summary = "Plant Functional Diversity and the Biogeography of Biomes in North and South America"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-#image_preview = "./featured.jpg"
+image_preview = "./featured.jpg"
 
 # Tags: can be used for filtering projects.
 tags = ["Functional diversity", "BIEN", "New World", "Biomes"]
@@ -23,6 +23,7 @@ math = false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder.
+
 [image]
 
   # Caption (optional)

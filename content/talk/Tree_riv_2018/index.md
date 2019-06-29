@@ -1,22 +1,22 @@
 
 ---
-title: Plant functional diversity and the biogeography of biomes in North and South America
-event: Ecology & Evolution seminar series.
-event_url: https://www.biology.pitt.edu/news-events/ecology-and-evolution-seminar-series
+title: Explosive diversification of *Solanum* L (Solanaceae) in the old world.
+event: Tree rivers evolution meeting
+event_url: https://www.csb.pitt.edu/2nd-annual-three-rivers-evolution-event-tree/
 location: Pittsburgh, PA, USA
 summary:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2018-11-07T12:00:00Z"
-date_end: "2018-11-07T13:00:00Z"
+date: "2018-09-22T12:00:00Z"
+date_end: "2018-09-22T13:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
 
-authors: [Susy Echeverría-Londoño, Brian J Enquist, Danilo M Neves, Cyrille Violle, Brad Boyle, Nathan J.B. Kraft, Brian S. Maitner, Brian McGill, Robert K. Peet, Brody Sandel, Stephen Andrew Smith, Jens-Christian Svenning, Susan K. Wiser, Andrew J Kerkhoff.]
-tags: [Functional Diversity, Biomes, Big Data, BIEN]
+authors: [Susy Echeverría-Londoño, Sandra Knapp, Tiina Särkinen, Isabel S Fenton, and Andy Purvis]
+tags: [Diversification, Solanum, Macroevolution, Big Data]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -48,10 +48,10 @@ slides: example
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-- "Func_Div"
+- "Solanum_Div"
 
 # Enable math on this page?
 math: true
 ---
 
-{{< gdocs src="https://docs.google.com/presentation/d/1KSPGMNx-uQgKIX12owD53duo4k5TXfBIqrqIoKakvoI/edit?usp=sharing" >}}
+{{< gdocs src="https://docs.google.com/presentation/d/1map6hxrTlS0lygX3JZRrSjUdBqtQfqJFqoKTIngqwrI/edit?usp=sharing" >}}

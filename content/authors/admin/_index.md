@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: NSF postdoctoral fellow, Biodiversity Researcher
+role: NSF Postdoctoral Associate, Biodiversity Researcher
 
 # Organizations/Affiliations
 #organizations:

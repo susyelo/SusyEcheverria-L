@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Susy Echeverría-L
+name: Susy Echeverria-Londono
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: NSF Postdoctoral Associate, Biodiversity Researcher
+role: Public Health and Environmental Research Consultant
 
 # Organizations/Affiliations
 #organizations:
